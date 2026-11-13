@@ -1,0 +1,9 @@
+**Action**: Hold
+
+**Reasoning**: The tape and the business are pulling in opposite directions and neither dominates: the October breakout is fully retraced (239.24 → 204.64, −14.46%), price sits only 0.55 points above the 200 SMA at 204.09 (0.09 ATR on a 6.22 ATR), RSI 35.07 made a lower low with no divergence, and MACD at −3.64 printed the window's worst reading after a failed histogram repair on 1.64x normal volume — but the fundamentals (supply-capped $108B Q3 guide, 66.2% operating margin, ~13–14x FY2028E) do not justify exiting at the bottom of a support cluster that is compressed into a 3.2-point band with earnings three weeks out. Buying the 200–205 zone would mean a sub-1-ATR stop under a level already tested on 10/30 — a coin flip into a binary print — while shorting 204.64 fights genuine mean-reversion toward the 214.60/215.73 10 EMA + VWMA cluster. So the position stays on at neutral size: trim roughly one-third only on a confirmed daily close below 201.85 (below the lower Bollinger band at 201.85 and the 10/30 low of 200.92), add only on a reclaim of 214.60/215.73 on above-average volume (~103M), and treat a 194.80 close — beneath the July congestion at 196.79/194.82 — as the hard stop where the long-term trend thesis, not just the momentum, is broken (1.58 ATR below spot).
+
+**Stop Loss**: 194.8
+
+**Position Sizing**: Maintain NVDA at benchmark weight; no new capital at 204.64. Hard cap at benchmark+25%, with that headroom reserved exclusively for a confirmed daily close above 215.73. No leverage, no averaging down into the 200 SMA.
+
+FINAL TRANSACTION PROPOSAL: **HOLD**
